@@ -1,2 +1,1 @@
-# f5-waf-aws
-Deploy F5 WAF using Ansible
+OWASP Top 10 WAF Policy tuned for Juiceshop app.
